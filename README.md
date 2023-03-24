@@ -163,14 +163,6 @@ https://xie.infoq.cn/article/1af0cb75be056fea788e6c86b
 
 2、由于es 、hbase等版本不一样可能需要下载源码重新选择对应版本 源码地址 [https://github.com/zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web)
 
-交流和解答
-
-
-
-钉钉  http://img.ccblog.cn/flink/dd2.png 
-
-微信二维码 http://img.ccblog.cn/flink/wx2.png
-
 
  完全按照flink1.13.2的连接器相关的配置详见
 
