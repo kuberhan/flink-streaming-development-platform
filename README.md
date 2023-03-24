@@ -20,7 +20,6 @@ https://xie.infoq.cn/article/1af0cb75be056fea788e6c86b
   **目的**:减少开发、降低成本 完全实现sql化 流计算任务。 😂
 
 
-   该项目获得 [Flink Forward Asia Hackathon (2021) 季军 ](https://mp.weixin.qq.com/s/J2OkX_D34ktfwSfhwdmXYQ)
 
    [点击查看WEB页面功能显示效果](/docs/img.md)
 
