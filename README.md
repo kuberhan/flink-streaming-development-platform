@@ -231,38 +231,11 @@ https://nightlies.apache.org/flink/flink-docs-release-1.13/zh/docs/connectors/ta
 [根据自己的flink版本重新编译web客户端](/docs/compile.md)
 
 
- ##  九、联系方式 
- 
- 请加钉钉群： 34315096 
-
-钉钉 
- [钉钉二维码](http://img.ccblog.cn/flink/dd2.png)
-
-http://img.ccblog.cn/flink/dd2.png 
-
-
- 
- ##  十、使用情况 
-
- 
-[2021-03-18 和 2021-03-19 两天 做的调研 ](/docs/img2.md)
-
-
-## 十一、 鸣谢
-感谢文香炯（湖南草花互动科技股份公司）贡献前端代码 ：https://gitee.com/wenxiangjiong/flink-streaming-platform-web.git
-
-
-## 十二、 捐赠
-
-[点击打开支付宝捐赠](http://img.ccblog.cn/jz/zfb.jpg)
-
-
-[点击打开微信捐赠](http://img.ccblog.cn/jz/wxzf.jpg)
 
 
 
-![支付宝](./docs/img/zfb.png)
-![微信](./docs/img/wx.png)
+
+
  
  
 
