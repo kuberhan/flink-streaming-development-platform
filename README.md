@@ -1,16 +1,3 @@
-
-**国内文章备用地址（因为github上面 图片效果可能看不到，原因你懂的 哈哈）**
-
-https://xie.infoq.cn/article/1af0cb75be056fea788e6c86b 
-
-
-
-**github地址**  https://github.com/zhp8341/flink-streaming-platform-web
-
-
-**国内gitee 地址** https://gitee.com/zhuhuipei/flink-streaming-platform-web
-
-
 ## 一、简介 
   flink-streaming-platform-web系统是基于[Apache Flink](https://flink.apache.org) 封装的一个可视化的、轻量级的flink web客户端系统，用户只需在web
   界面进行sql配置就能完成流计算任务。
